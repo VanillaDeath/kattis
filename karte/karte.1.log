@@ -1,0 +1,6 @@
+[4mScript result:[0m                         [4mExpected result:[0m
+12 12 11 13                         [1;32mOK[0m 12 12 11 13
+
+-- [1;32mCORRECT[0m --
+
+[7mReturn Value: 0[0m

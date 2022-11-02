@@ -1,0 +1,11 @@
+[4mInput file:[0m zanzibar/zanzibarsample.in
+3
+1 100 0
+1 1 1 2 2 4 8 8 9 0
+1 28 72 0
+
+[4mScript result:[0m zanzibar/zanzibar.php
+98
+0
+42
+[7mReturn Value: 0[0m

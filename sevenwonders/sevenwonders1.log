@@ -1,0 +1,7 @@
+[4mInput file:[0m sevenwonders1.in
+TCGTTC
+
+[4mScript result:[0m sevenwonders.php       [4mExpected result:[0m sevenwonders1.ans
+21                                  [1;32m✓[0m 21
+
+[7mReturn Value: 0[0m                     [1;32m✔ CORRECT[0m

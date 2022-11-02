@@ -1,0 +1,54 @@
+vanilladeath@wilbot:~/kattis$ ./kattis.php test skener skener1.in
+..xx..
+xx..xx
+..xx..
+
+----------
+Return Value: 0
+----------
+Expected result:
+
+..xx..
+xx..xx
+..xx..
+vanilladeath@wilbot:~/kattis$ ./kattis.php test skener skener2.in
+.x.
+.x.
+x.x
+x.x
+.x.
+.x.
+
+----------
+Return Value: 0
+----------
+Expected result:
+
+.x.
+.x.
+x.x
+x.x
+.x.
+.x.
+vanilladeath@wilbot:~/kattis$ ./kattis.php submit skener
+Submit script skener.php to kattis? (y/n): y
+Problem: skener
+Language: PHP
+Files: skener.php
+Submit (y/N)?
+Submission received. Submission ID: 1515934.
+vanilladeath@wilbot:~/kattis$ ./kattis.php get pizza2
+Sample pizza21.ans created.
+Sample pizza21.in created.
+Sample pizza22.ans created.
+Sample pizza22.in created.
+4 sample data files created.
+Would you like to create pizza2.php? (y/n): n
+vanilladeath@wilbot:~/kattis$ ./kattis.php publish skener*
+Published skener1.ans to publish/skener1.ans
+Published skener1.in to publish/skener1.in
+Published skener2.ans to publish/skener2.ans
+Published skener2.in to publish/skener2.in
+Published skener.php to publish/skener.php
+Published 5 files.
+vanilladeath@wilbot:~/kattis$

@@ -1,0 +1,14 @@
+[4mInput file:[0m beavergnawC.in
+10 250
+20 2500
+25 7000
+50 50000
+0 0
+
+[4mScript result:[0m beavergnaw.php         [4mExpected result:[0m beavergnawC.ans
+8.054499                            [1;32m✓[0m 8.054498576
+14.774939                           [1;32m✓[0m 14.774938880
+13.115315                           [1;32m✓[0m 13.115314879
+30.901189                           [1;32m✓[0m 30.901188723
+
+[7mReturn Value: 0[0m                     [1;32m✔ CORRECT[0m
